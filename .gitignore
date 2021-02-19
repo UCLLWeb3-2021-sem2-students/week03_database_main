@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+
+# local config
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+out/
+
+# password
+/src/main/java/ui/view/Secret.java
